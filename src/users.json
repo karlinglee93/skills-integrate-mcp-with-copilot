@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "prof.smith@mergington.edu",
+      "password_hash": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+      "role": "staff",
+      "full_name": "Professor Smith"
+    },
+    {
+      "username": "admin@mergington.edu",
+      "password_hash": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+      "role": "admin",
+      "full_name": "Administrator"
+    },
+    {
+      "username": "mr.jones@mergington.edu",
+      "password_hash": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+      "role": "staff",
+      "full_name": "Mr. Jones"
+    }
+  ]
+}
